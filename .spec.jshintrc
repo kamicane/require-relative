@@ -1,0 +1,13 @@
+{
+  "eqeqeq": true,
+  "freeze": true,
+  "futurehostile": true,
+  "noarg": true,
+  "nonbsp": true,
+  "undef": true,
+  "unused": true,
+  "node": true,
+  "globalstrict": true,
+  "expr": true,
+  "mocha": true
+}
