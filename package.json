@@ -1,6 +1,6 @@
 {
   "name": "require-relative",
-  "version": "0.8.7",
+  "version": "1.0.0",
   "description": "require and resolve modules relative to a path of your choice",
   "main": "lib\\index.js",
   "homepage": "https://github.com/kamicane/require-relative",
